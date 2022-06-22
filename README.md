@@ -3,8 +3,8 @@
 This is where I store my work on Machine Learning.
 
 ___
-# 1. Breast Cancer Wisconsin: 
-   ## About Dataset
+## 1. Breast Cancer Wisconsin: 
+   ### About Dataset
    https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
    
    Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
@@ -15,13 +15,13 @@ ___
    cd math-prog/cpo-dataset/machine-learn/WDBC/
 
 Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
-   ## My project on Kaggle:
+   ### My project on Kaggle:
    https://www.kaggle.com/code/nhanbaoho/logistic-regression-accuracy-97
    
-   ## Description:
+   ### Description:
    
    In this project, Logistic Regression has been use to predict whether a person has presence of breast cancer based on physical features of cell nucleus of that person.
    
    ___
    ___
-   
+  
