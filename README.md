@@ -15,6 +15,6 @@ ___
    cd math-prog/cpo-dataset/machine-learn/WDBC/
 
 Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
-   ## My code on kaggle is at 
+   ## My project on Kaggle:
    https://www.kaggle.com/code/nhanbaoho/logistic-regression-accuracy-97
    
