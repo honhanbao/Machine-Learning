@@ -19,10 +19,8 @@ Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.ed
    https://www.kaggle.com/code/nhanbaoho/logistic-regression-accuracy-97
    
    ### Description:
-   
    In this project, Logistic Regression has been use to predict whether a person has presence of breast cancer based on physical features of cell nucleus of that person.
    
-   ### Code file
    ### <a href="https://github.com/honhanbao/Machine-Learning/tree/master/ML_Logistic%20Regression/Breast%20Cancer%20Wisconsin">Code file</a>
    ___
    ___
